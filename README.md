@@ -5,3 +5,5 @@ Download `pose_iter_160000.caffemodel` online (http://posefs1.perception.cs.cmu.
 (README under progress)
 
 ![deadlift](https://github.com/SravB/Computer-Vision-Weightlifting-Coach/blob/master/deadlift_example.jpg)
+
+![deadlift2](https://github.com/SravB/Computer-Vision-Weightlifting-Coach/blob/master/deadlift_example2.jpg)
