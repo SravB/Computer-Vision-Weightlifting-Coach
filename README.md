@@ -8,3 +8,6 @@ Run the jupyter notebook and enjoy! Below is an analysis on how this project was
 ![deadlift](https://github.com/SravB/Computer-Vision-Weightlifting-Coach/blob/master/deadlift_example.jpg)
 
 ![deadlift2](https://github.com/SravB/Computer-Vision-Weightlifting-Coach/blob/master/deadlift_example2.jpg)
+
+
+Built using pre trained weights for OpenPose keypoint detection using the MPII pose estimation dataset (see https://github.com/spmallick/learnopencv for OpenPose example and other computer vision examples), Python, OpenCV, Scikit-Learn, Jupyter Notebook.
